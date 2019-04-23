@@ -10,13 +10,15 @@ BACKEND : J2EE Springboot + MongoDB Hosting Mlab
 
 ## Usage
 
+```
 Install dependecies : npm install -g
 
-To lauch application side front :  npm run serve
+To launch application side front :  npm run serve
 
-To lauch backend server : 
+To launch backend server : 
 Environement java J2EE installed
 Integrate your credential of Mlab into ressources/application.properties
+```
 
 
 ##SCREENSHOT
